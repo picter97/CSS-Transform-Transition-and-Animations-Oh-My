@@ -4,6 +4,13 @@ body  {
   font-family: 'Josefin Sans', sans-serif;
   text-align: center;
 }
+.caption-media{
+  display: block;
+  min-width: 100%;
+  max-width: 100%;
+  height: auto;
+ 
+}
 
 .caption {
   width: 80%;
